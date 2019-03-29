@@ -1,2 +1,0 @@
-# Bk
-ShoppingCart_Demo
